@@ -27,7 +27,7 @@ project_root/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/SyedAfzalHussain/federated_learning_model.git
+git clone https://github.com/jacob-2244/Federated_Learning_Cataract_Detection.git
 cd federated_learning_model
 ```
 
