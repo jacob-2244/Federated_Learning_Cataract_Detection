@@ -1,4 +1,4 @@
-# Secure AI-Powered Cataract Detection & Classification System
+# Federated Learning Cataract/Glocuma Detection & Classification System
 
 A privacy-preserving web application for cataract detection and classification using federated learning. This project leverages deep learning to assist in early detection of cataract and Glocuma while ensuring patient data privacy through federated model training. The application also integrates a doctor consultation module and chat for enhanced clinical support.
 
@@ -41,6 +41,7 @@ The dataset includes:
   - Hypertension
   - Diabetes
   - Pathological Myopia
+
  But here we are detecting only Cataract And Glocuma to maintain accuracy and precision of results and to make project streamline.
 
 > **Note**: The dataset must be manually downloaded from Kaggle due to licensing restrictions.
