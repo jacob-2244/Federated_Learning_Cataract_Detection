@@ -65,5 +65,12 @@ The dataset includes:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/jacob2244/Federated_Learning_Cataract_Detection.git
+git clone https://github.com/jacob-2244/Federated_Learning_Cataract_Detection.git
 cd eyecare
+
+
+
+📫 Contact
+Muhammad Yaqoob
+📧 muhammadyaqoob2580@gmail.com
+🔗[ GitHub](https://github.com/jacob-2244)
