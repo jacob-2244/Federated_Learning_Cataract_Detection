@@ -68,26 +68,22 @@ The dataset includes:
 ```bash
 git clone https://github.com/jacob-2244/Federated_Learning_Cataract_Detection.git
 cd eyecare
+```
 
----
+### 2. Install Dependencies
+```bash
 
-### 2. Install Backend Dependencies
-bash
-Copy
-Edit
-cd backend
-pip install -r requirements.txt
-Run the federated model training script or simulated client setup depending on your framework (e.g., Flower or TFF).
+All the required dependencies regarging ML are in ocular_federated_learning_model
+```
 
----
 ### 3. Run the Frontend
-bash
-Copy
-Edit
+```bash
+
 cd eyecare
 npm install
 npm run dev
----
+```
+
 4. Configure Firebase
 Replace firebaseConfig in both frontend and backend with your Firebase project's credentials.
 
