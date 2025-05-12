@@ -69,8 +69,9 @@ The dataset includes:
 git clone https://github.com/jacob-2244/Federated_Learning_Cataract_Detection.git
 cd eyecare
 
+---
 
-2. Install Backend Dependencies
+### 2. Install Backend Dependencies
 bash
 Copy
 Edit
@@ -78,30 +79,32 @@ cd backend
 pip install -r requirements.txt
 Run the federated model training script or simulated client setup depending on your framework (e.g., Flower or TFF).
 
-3. Run the Frontend
+---
+### 3. Run the Frontend
 bash
 Copy
 Edit
 cd eyecare
 npm install
 npm run dev
+---
 4. Configure Firebase
 Replace firebaseConfig in both frontend and backend with your Firebase project's credentials.
 
 Enable Authentication (Email/Password) and Firestore Database in Firebase Console.
 
 Define Firebase security rules for secure access.
-
-✅ Future Scope
+---
+### ✅ Future Scope
 Expand classification to include more diseases (e.g., AMD, Diabetes)
 
 Integrate video consultations
 
 Enable live federated training on real hospital nodes
 
+---
 
-
-📫 Contact
+### 📫 Contact
 Muhammad Yaqoob
 📧 muhammadyaqoob2580@gmail.com
 🔗[ GitHub](https://github.com/jacob-2244)
